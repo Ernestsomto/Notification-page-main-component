@@ -4,7 +4,7 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [netilfy](https://imaginative-peony-fca243.netlify.app)
+- Live Site URL: [glitch](https://oasis-polar-constellation.glitch.me)
 
 
 ## Author
